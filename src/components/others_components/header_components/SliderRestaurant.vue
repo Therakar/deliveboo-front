@@ -53,7 +53,7 @@ mounted(){
   height: 300px !important;
 }
 .container-slide {
-  height: 700px;
+  height: 500px;
 }
 
 img {

@@ -38,7 +38,7 @@ export default {
   background-color: var(--section-news-bg);
   padding: 100px 0px;
   box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
-
+  
   &__title{
 
     h2{
@@ -54,7 +54,7 @@ export default {
     color: black;
 
     &__img{
-      width: 800px;
+      max-width: 800px;
       
     }
 

@@ -73,7 +73,9 @@ export default {
       height: 60px;
       position: relative;
       border-radius: 5px;
-      
+      :hover{
+        cursor: pointer;
+      }
     }
     span {
       position: absolute;
